@@ -1,8 +1,8 @@
 ## Hardware Overview
 
 <p align="center">
-  <img src="images/img_robot.png" width="45%" />
-  <img src="images/front_2.png" width="45%" />
+  <img src="images/img_robot.png" height="400"/>
+  <img src="images/front_2.png" height="400"/>
 </p>
 
 This project presents the development of an autonomous mobile robot for gas monitoring and obstacle avoidance.
