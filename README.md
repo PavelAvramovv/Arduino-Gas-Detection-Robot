@@ -1,6 +1,12 @@
 # Autonomous Gas Monitoring Robot
 
+<p align="center">
+  <img src="images/img_robot.png" width="500"/>
+</p>
+
 Bachelor Thesis Project – Technical University of Sofia
+
+## Overview
 
 ## Overview
 
